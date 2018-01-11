@@ -1,0 +1,376 @@
+body{
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
+  
+}
+
+#logo{
+  width:15%;
+  margin-top: 20px;
+
+}
+
+
+#button1 {
+  float:right;
+  background: #ce7115;
+  border: none;
+  border-radius: 5px 5px 5px 5px;
+  width:25vw;
+  margin-right: 5vw;
+  height:3vw;
+  margin-top: -6vw; 
+
+}
+
+#button1 a {
+
+  color:white;
+  text-align: center;
+  font-size: 2vw;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+
+
+}
+
+#image1{
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top:-5px;
+  
+}
+
+#column1{
+  background: #f79431;
+  height: 19vw;
+}
+
+#column2{
+
+  background: #ce7115;
+  height: 19vw;
+
+}
+
+#car{
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vw;
+
+}
+
+#buyer{
+
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vw;
+
+}
+
+.titles{
+
+  color: white;
+  text-align: center;
+  font-size: 1.5vw;
+  margin-top: 4px;
+
+}
+
+.numbers{
+
+  color: white;
+  text-align: center;
+  font-size: 4vw;
+  margin-top: -1vw;
+
+
+}
+
+#column4{
+
+  margin-top: -0.0vw;
+  text-align: center;
+  color:#0b857a;
+  font-weight: bold;
+  font-size: 1.5vw;
+  width:100%;
+  text-transform: uppercase;
+
+
+
+}
+
+#column5{
+  background: #edf2f5;
+  height: 30vw;
+}
+
+#girl {
+
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  margin-top: 3vw;
+
+
+
+}
+
+#girlname {
+  text-align: center;
+  color:#ce7115;
+  font-size: 1.9vw;
+  opacity: 0.8;
+  margin-top: 2vw;
+  font-size: bold;
+
+
+}
+
+#girltitle{
+  text-align: center;
+  font-size: 1.5vw;
+  opacity: 0.7;
+  font-weight: bold;
+  letter-spacing: -0.1vw;
+  margin-top: -1vw;
+}
+
+
+#column6{
+  text-align: center;
+  background: #0b857a;
+  height: 30vw;
+  
+}
+
+#paragraph{
+  color: white;
+  font-size: 2.2vw;
+  vertical-align: middle;
+  font-style: italic;
+  margin: 4vw 1.3vw 0vw 1.3vw;
+}
+
+#column7 {
+  text-align: center;
+  margin-top: 1vw;
+  color:#0b857a;
+  font-weight: bold;
+  font-size: 1.5vw;
+  width:100%;
+  text-transform: uppercase;
+}
+
+#electronics {
+
+  width: 102.5vw;
+  margin-left: -4vw;
+  margin-bottom: 3vw;
+
+}
+
+#column8{
+  color:#0b857a;
+  width:35vw;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  font-size: 1vw;
+  margin-left: 10vw;
+  text-align: center;
+  margin-bottom: 4vw;
+  font-weight: bold;
+  height: 5vw;
+}
+
+#column9{
+
+  color:#0b857a;
+  width:35vw;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  font-size: 1vw;
+  margin-left: 50vw;
+  margin-top: -9vw;
+  text-align: center;
+  font-weight: bold;
+  height: 5vw;
+
+}
+
+#column10{
+  background-color:#0b857a;
+  color: white;
+  width:35vw;
+  border-style: solid;
+  border-color: #0b857a;
+  border-width: 0.2vw;
+  font-size: 1vw;
+  margin-left: 10vw;
+  text-align: center;
+  margin-bottom: 4vw;
+  font-weight: bold;
+  height: 5vw;
+}
+
+#column11{
+  color:#0b857a;
+  width:35vw;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  font-size: 1vw;
+  margin-left: 50vw;
+  margin-top: -9vw;
+  text-align: center;
+  font-weight: bold;
+  height: 5vw;
+}
+
+#pay{
+
+  margin-top: 3vw;
+  filter: brightness(40%);
+  width: 100%
+  
+}
+
+.container .caption{
+
+  color:white;
+  text-align: center;
+  margin-top: -15.3vw;
+  font-size: 2.3vw;
+  margin-left: 33vw;
+  font-weight: bold;
+  position: absolute;
+
+}
+
+#column12{
+
+  text-align: center;
+  margin-top: 2vw;
+  color:#0b857a;
+  font-weight: bold;
+  font-size: 1.5vw;
+  width:100%;
+  text-transform: uppercase;
+  margin-bottom: 2vw;
+
+
+}
+
+#photo1{
+
+  width: 25%;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  margin-left: 11vw;
+  margin-top: 3vw;
+  height: 12vw;
+
+}
+
+#photo2{
+  width: 25%;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  margin-left: -17vw;
+  margin-top: 3vw;
+  height: 12vw;
+}
+
+#photo3{
+
+  width: 25%;
+  border-style: solid;
+  border-color: lightgrey;
+  vertical-align: middle;
+  margin-top: -14vw;
+  margin-left: 54vw;
+  height: 12vw;
+
+}
+
+
+#photo4{
+
+  width: 25%;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 0.2vw;
+  margin-left: 26vw;
+  margin-top: -30vw;
+  height: 12vw;
+
+}
+
+
+#lastimage{
+
+  margin-top: 4vw;
+  filter: brightness(40%);
+  width: 100%
+
+}
+
+.container .caption1{
+  color:white;
+  text-align: center;
+  margin-top: -25vw;
+  font-size: 3vw;
+  margin-left: 35.8vw;
+  font-weight: bold;
+  position: absolute;
+}
+
+
+#button2{
+  color:white;
+  text-align: center;
+  margin-top: -17vw;
+  font-size: 3.7vw;
+  margin-left: 33vw;
+  font-weight: bold;
+  position: absolute;
+  border-style: solid;
+  width: 36vw;
+  height: 9vw;
+  border-color: white;
+  border-width: 0.2vw;
+  background-color: transparent;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+footer{
+  text-align: center;
+  margin-top: -0.4vw;
+  background-color:#0b857a;
+  color:white;
+  font-weight: bold;
+  font-size: 1.5vw;
+  width:100%;
+  height:6vw;
+  text-transform: uppercase;
+  padding-top: 3vw;
+}
